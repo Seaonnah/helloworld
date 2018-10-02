@@ -5,7 +5,7 @@ This app is going to blow your mind! If you tap the big button it will change th
 
 ### App Walk-though
 
-<img src="(https://i.imgur.com/98KwSD7.gif" width=200><br>
+<img src="https://i.imgur.com/98KwSD7.gif" width=200><br>
 
 ### Required User Stories
 - [x ] 1. User sees custom text in a label - Hello from {name}!
